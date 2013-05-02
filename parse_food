@@ -1,5 +1,10 @@
-curl -s http://www.fineli.fi/food.php?foodid=$1 |\
-jkwery body div table.contentarea tr each td each table.visible tr each "td:nth-child(2)" |\
-head -n 5 |\
-tr '\n' ',' |\
-sed 's/,$//'
+#!/bin/bash
+macronutrients=`curl -s http://www.fineli.fi/food.php?foodid=$1 |\
+                jkwery body div table.contentarea tr each td each table.visible tr each "td:nth-child(2)" |\
+                head -n 5 |\
+                sed 's/&nbsp;//' |\
+                sed 's/[0-9\.]*(\([0-9\.]*\))/\1/' |\
+                tr '\n' ';' |\
+                sed 's/,$//'`
+name=`curl -s http://www.fineli.fi/food.php?foodid=$1 | jkwery h1`
+echo $name\;$macronutrients
