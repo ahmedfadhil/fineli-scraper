@@ -1,4 +1,4 @@
-html=`curl -s http://www.fineli.fi/food.php?foodid=$1`
+html=`curl -s http://www.fineli.fi/food.php?foodid=$1 | iconv -f iso8859-1 -t utf-8`
 macronutrients=`echo $html |\
                 jkwery body div table.contentarea tr each td each table.visible tr each "td:nth-child(2)" |\
                 head -n 5 |\
