@@ -1,0 +1,4 @@
+curl -s http://www.fineli.fi/foodlist.php?foodname=% | \
+jkwery ul li each a attr href | \
+sed -e 's/.*id=\([0-9]*\).*/\1/' | \
+sort -n
