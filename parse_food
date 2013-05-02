@@ -1,10 +1,11 @@
 #!/bin/bash
-macronutrients=`curl -s http://www.fineli.fi/food.php?foodid=$1 |\
+html=`curl -s http://www.fineli.fi/food.php?foodid=$1`
+macronutrients=`echo $html |\
                 jkwery body div table.contentarea tr each td each table.visible tr each "td:nth-child(2)" |\
                 head -n 5 |\
                 sed 's/&nbsp;//' |\
                 sed 's/[0-9\.]*(\([0-9\.]*\))/\1/' |\
                 tr '\n' ';' |\
                 sed 's/,$//'`
-name=`curl -s http://www.fineli.fi/food.php?foodid=$1 | jkwery h1`
+name=`echo $html | jkwery h1`
 echo $name\;$macronutrients
