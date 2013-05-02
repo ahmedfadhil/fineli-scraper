@@ -1,4 +1,3 @@
-#!/bin/bash
 html=`curl -s http://www.fineli.fi/food.php?foodid=$1`
 macronutrients=`echo $html |\
                 jkwery body div table.contentarea tr each td each table.visible tr each "td:nth-child(2)" |\
