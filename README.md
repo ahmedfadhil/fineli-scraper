@@ -10,7 +10,7 @@ Usage
 
 `foods.txt` will contain the Fineli foods in the following format:
 
-    Name;Calories;Carbohydrates;Fat;Protein;Alcohol
+    Name;Calories;Carbohydrates;Fats;Proteins;Alcohol
 
 Dependencies
 ------------
