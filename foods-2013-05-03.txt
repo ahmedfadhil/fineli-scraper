@@ -2451,9 +2451,9 @@ Spagetti, täysjyväriisi, keitetty, suolaa;99;21.0;0.2;1.8;0
 Lihapiirakka, portti järvisuomen;291;31.4;15.1;6.6;0
 Spagettilihavuoka, saarioinen, valmisateria;97;11.6;2.9;5.6;0
 Kasvispihvi, saarioinen;153;10.3;8.4;7.8;0
-Muro, riisi-vehnähiutale, nestle fitness &amp; yogurth, aamiaishiutale, vitaminoitu;376;69.5;6.2;7.6;0
+Muro, riisi-vehnähiutale, nestle fitness & yogurth, aamiaishiutale, vitaminoitu;376;69.5;6.2;7.6;0
 Jogurtti, juotava,, a+, rasvaa 1,5%, vl, probiootteja;64;10.4;1.0;2.7;0
-Muro, riisi-vehnähiutale, nestle fitness &amp; fruits, aamiaishiutale, vitaminoitu;336;68.5;2.7;5.4;0
+Muro, riisi-vehnähiutale, nestle fitness & fruits, aamiaishiutale, vitaminoitu;336;68.5;2.7;5.4;0
 Jogurtti, maustamaton, rasvaa 3,4 %, activia, probiootteja;72;5.7;3.4;4.5;0
 Jogurtti, maustamaton, rasvaton, activia, probiootteja;45;5.5;0.1;5.0;0
 Perunalaatikko, broilerikiusaus, pirkka;82;8.6;3.1;4.4;0
@@ -2662,7 +2662,7 @@ Välipalajuoma, hevi shot, valio, omena-porkkana-mansikka;74;15.9;0.1;0.5;0
 Välipalajuoma, hevi shot, valio, päärynä-porkkana-mustaherukka;60;12.0;0.3;0.8;0
 Välipalajuoma, hevi shot, valio, mansikka-puolukka+ruis;63;11.7;0.4;0.9;0
 Välipalajuoma, mehukatti hedelmävälipala, mansikka;63;13.1;0.2;0.5;0
-Ateriakastike, hapanimelä, sweet &amp; sour, uncle ben's, valmiskastike;86;19.7;0.1;0.5;0
+Ateriakastike, hapanimelä, sweet & sour, uncle ben's, valmiskastike;86;19.7;0.1;0.5;0
 Välipalajuoma, mehukatti hedelmävälipala, päärynä;64;13.5;0.2;0.4;0
 Salaatinkastike, kartanon, saarioinen, rypsiöljypohjainen, rasvaa 39 %;403;12.9;39.2;0.6;0
 Välipalajuoma, mehukatti hedelmävälipala, hedelmämix;62;13.2;0.2;0.6;0
@@ -2683,7 +2683,7 @@ Jauhelihakastike, ruskea kastike, naudanpaisti, ei rasvaa;71;2.1;1.5;12.1;0
 Jauhelihakastike, ruskea kastike, sianliha, ei rasvaa;129;2.1;8.9;10.3;0
 Jauhelihakastike, ruskea kastike, sika-nauta, ei rasvaa;131;2.1;9.3;9.8;0
 Makeinen, dumle, fazer, maitosuklaalla kuorrutettu toffee;471;66.3;21.8;2.1;0
-Makeinen, maitosuklaarae, m&amp;m's/amerikan pastilli;479;72.3;17.9;5.8;0
+Makeinen, maitosuklaarae, m&m's/amerikan pastilli;479;72.3;17.9;5.8;0
 Jauhelihakastike, maitopohjainen, naudanpaisti;130;7.3;6.9;9.6;0
 Jauhelihakastike, maitopohjainen, sika-nauta;172;7.6;11.9;8.6;0
 Jauhelihakastike, tomaattinen, naudanliha 7 %, kastikejauheesta;125;6.8;4.9;13.0;0
@@ -3112,7 +3112,7 @@ Muro, vehnähiutale, bran flakes, lidl;359;67.0;2.0;10.0;0
 Lihapulla, lihapyörykkä, kotoisat lihapyörykät, saarioinen;197;7.9;12.3;14.0;0
 Rapukeitto kermaa, alkoholia;102;3.6;8.7;2.0;0.1
 Marjapiirakka, täytetty, pohja + kansi;356;43.4;17.5;4.9;0
-Muro, vehnähiutale, fruit &amp; fibre, lidl;395;74.0;5.2;7.3;0
+Muro, vehnähiutale, fruit & fibre, lidl;395;74.0;5.2;7.3;0
 Muro, vehnähiutale, nut flakers, lidl;421;61.1;12.1;11.0;0
 Muro, maissihiutale, caramel flakes, lidl;414;83.5;5.8;5.6;0
 Muro, maissihiutale, apple flakes, lidl;387;87.8;0.8;5.3;0
@@ -3244,7 +3244,7 @@ Muro, riisimuro, sokerihuurrettu, kellogg's frost rice krispies, vitaminoitu;375
 Kala, tuoresuolattu;118;1.4;5.1;16.6;0
 Muro, riisi-vehnähiutale, suklaa-mansikka, kellogg's special k, choco-strawberry;367;71.8;3.0;10.7;0
 Välipalapatukka, suklaa-muropatukka, kellogg´s special k chocolate, täydennetty;391;72.6;6.5;7.7;0
-Välipalapatukka, muropatukka, kellogg´s rice krispies cereal &amp; milk, täydennetty;431;70.2;12.6;8.4;0
+Välipalapatukka, muropatukka, kellogg´s rice krispies cereal & milk, täydennetty;431;70.2;12.6;8.4;0
 Kaurajuoma, elovena välipalajuoma aurinkoinen, 2,9 % rasvaa;89;13.7;2.9;1.1;0
 Kaurajuoma, elovena välipalajuoma metsämarja, 0,5% rasvaa;58;10.0;0.4;1.3;0
 Jogurtti, maustamaton, rasvaa 2,5 %;54;4.8;2.5;3.0;0
@@ -3467,7 +3467,7 @@ Jogurtti, grego sokeroitu maustamaton, rasvaa 10 %;154;11.9;10.2;3.6;0
 Jogurtti, maustettu, grego, rasvaa 8 %;144;14.4;8.1;3.1;0
 Kirjolohifilee lämminsavustettu;157;0;7.7;21.9;0
 Kala lämminsavustettu, keskiarvo;153;0;7.1;22.1;0
-Jogurtti, maustettu, luonto+, rasvaton, d-vit 1 ug +a&amp;e, kuitua, probiootteja;61;9.9;0.1;4.1;0
+Jogurtti, maustettu, luonto+, rasvaton, d-vit 1 ug +a&e, kuitua, probiootteja;61;9.9;0.1;4.1;0
 Kirjolohifilee;165;0;11.0;16.8;0
 Lohifilee, kylmäsavustettu;210;0;13.4;22.6;0
 Sekaleipä, vähähiilihydraattinen, teollinen,tuotekeskiarvo;274;13.7;14.3;17.4;0
