@@ -11,3 +11,12 @@ Usage
 `foods.txt` will contain the Fineli foods in the following format:
 
     Name;Calories;Carbohydrates;Fat;Protein;Alcohol
+
+Dependencies
+------------
+
+In addition to the obvious, the following must be in the path:
+
+* curl
+* iconv
+* jkwery (from npm)
