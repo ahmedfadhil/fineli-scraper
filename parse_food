@@ -6,6 +6,6 @@ macronutrients=`echo $html |\
 								sed 's/&lt;//g' |\
                 sed 's/[0-9\.]*(\([0-9\.]*\))/\1/' |\
                 tr '\n' ';' |\
-                sed 's/,$//'`
+                sed 's/;$//'`
 name=`echo $html | jkwery h1`
 echo $name\;$macronutrients
