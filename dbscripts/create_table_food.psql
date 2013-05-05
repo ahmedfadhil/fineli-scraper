@@ -1,0 +1,11 @@
+CREATE TABLE food (
+  id bigserial primary key,
+  name varchar(256) NOT NULL,
+  calories numeric NOT NULL,
+  carbohydrates numeric NOT NULL,
+  fats numeric NOT NULL,
+  proteins numeric NOT NULL,
+  alcohol numeric NOT NULL,
+  source varchar(256) NOT NULL,
+  date_added timestamp default current_timestamp
+);

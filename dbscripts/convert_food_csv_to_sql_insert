@@ -1,0 +1,6 @@
+while read line
+do
+	name=`echo $line | cut -f 1 -d ';' | sed s%\'%\'\'%g`
+	facts=`echo $line | cut -f 2- -d ';' | sed 's/;/, /g'`
+	echo insert into food \(name, calories, carbohydrates, fats, proteins, alcohol, source\) values \(\'$name\', $facts, \'fineli\'\)\;
+done

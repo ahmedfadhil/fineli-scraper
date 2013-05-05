@@ -1,0 +1,4 @@
+while read line
+do
+	echo "delete from food where id=$line;"
+done
